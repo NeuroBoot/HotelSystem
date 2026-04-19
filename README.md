@@ -1,4 +1,4 @@
-# HotelSystem
+#  Hotel Reservation System
 ---
 ## this project implement  5 different design  patterns
 
